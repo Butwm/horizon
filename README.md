@@ -94,19 +94,6 @@
 
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
-<h2>Acknowledgments</h2>
-
-<ul>
-  <li><a href="https://linear.app">Linear</a> for design inspiration</li>
-  <li><a href="https://cohere.com">Cohere</a> for AI capabilities</li>
-  <li><a href="https://hume.ai">Hume AI</a> for voice processing</li>
-  <li><a href="https://notion.so">Notion</a> for note integration</li>
-  <li><a href="https://github.com">GitHub</a> for repository integration</li>
-  <li><a href="https://drive.google.com">Google Drive</a> for document storage</li>
-</ul>
-
-<hr>
-
 <p align="center">
   Made with ❤️ by the Horizon team
 </p>
